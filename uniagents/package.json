@@ -1,0 +1,21 @@
+{
+  "name": "uniagents",
+  "version": "0.0.0",
+  "description": "uniagents",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^3.1.2",
+    "cors": "^2.8.5",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1",
+    "kurento-client": "^6.14.0",
+    "node-signalr": "^2.0.5",
+    "socket.io": "^4.1.3"
+  }
+}
